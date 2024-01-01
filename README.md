@@ -95,3 +95,7 @@ Improve the system's ability to detect subtle indicators of suspicious activitie
 4. Collaboration with AI Research Communities:
 Foster collaboration with AI research communities to stay at the forefront of technological advancements.
 Contribute to open-source projects and initiatives in the field.
+
+# videos 
+
+[!video](https://github.com/robonald/criminal-detection/blob/main/videos/IMG_0507.MOV)
